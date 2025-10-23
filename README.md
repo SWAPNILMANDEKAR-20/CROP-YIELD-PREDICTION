@@ -11,3 +11,34 @@ Responsive Design: Optimized layout for seamless use across desktop and mobile d
 
 Extensible Structure: The tailwind.config.ts includes extensive custom colors (e.g., primary, success, sidebar) and utility classes for easy scaling.
 
+Frontend:
+
+React 
+
+TypeScript 
+
+HTML, CSS, JavaScript 
+
+Bootstrap 
+
+React (optional enhancement) 
+
+Backend:
+
+Python 
+
+Flask (or Django) 
+
+OpenFDA API 
+
+Other/Build Tools:
+
+Vite 
+
+shadcn-ui 
+
+Tailwind CSS 
+
+typescript 
+
+typescript-eslint
