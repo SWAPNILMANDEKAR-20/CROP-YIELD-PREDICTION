@@ -1,16 +1,19 @@
-## Project Overview: AI Crop Yield Prediction System
+The AI Crop Yield Prediction System is a modern web application designed to demonstrate the power of machine learning in agriculture. The system uses a contemporary Vite + React (TypeScript) frontend paired with a likely Python/ML backend (inferred from the AI focus) to predict crop yields, allowing farmers and analysts to optimize agricultural productivity.
 
-This repository contains a modern, feature-rich boilerplate for building a scalable, data-intensive web application. The core focus of this project, "CropPredict," is an **Advanced AI-powered Crop Yield Prediction System** using machine learning to optimize agricultural productivity.
+Features
 
-### Key Technologies
+Crop Yield Prediction: Core AI functionality to estimate future crop output (inferred from project goal).
 
-The stack is built around a best-in-class developer experience:
 
-* **Frontend Framework**: React
-* **Language**: TypeScript
-* **Build Tool**: Vite
-* **Styling**: Tailwind CSS
-* **Component Library**: shadcn/ui (built on Radix UI)
-* **State/Data Management**: TanStack Query (React Query)
-* **Form Handling**: React Hook Form with Zod validation
-* **Utilities**: Class Variance Authority (cva), clsx, Tailwind Merge (tw-merge)
+Modern UI/UX: Built with shadcn/ui and a configurable Tailwind CSS theme, featuring custom keyframe animations.
+
+
+
+Advanced Tooling: Utilizes TypeScript for type safety, Vite for fast builds, TanStack Query for data fetching, and React Hook Form with Zod validation.
+
+
+Responsive Design: Optimized layout for seamless use across desktop and mobile devices.
+
+
+Extensible Structure: The tailwind.config.ts includes extensive custom colors (e.g., primary, success, sidebar) and utility classes for easy scaling.
+<img width="900" height="535" alt="image" src="https://github.com/user-attachments/assets/bf3c46e3-e277-42a8-b18e-0ccfd916d934" />
